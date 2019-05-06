@@ -54,6 +54,7 @@ end
 group :production do
   #postgress  
   gem 'pg'
+  
 end
 
 group :test do
